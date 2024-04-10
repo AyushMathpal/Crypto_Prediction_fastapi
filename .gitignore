@@ -1,0 +1,5 @@
+# IDE / Editor specific files
+__pycache__/
+
+# Virtual environment
+.env
